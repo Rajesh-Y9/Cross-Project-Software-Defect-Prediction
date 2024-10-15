@@ -1,0 +1,8 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "590184016599.dkr.ecr.us-east-1.amazonaws.com/cafe/node-web-app",
+        "Update": "true"
+    },
+    "Ports": [ { "ContainerPort" : 3000 } ]
+    }
